@@ -1,5 +1,7 @@
-# ThingProvider
+# ThingProvider 
 Let's connect all things !
+
+[![Build Status](https://travis-ci.org/kevinmmartins/ThingProvider.svg?branch=master)](https://travis-ci.org/kevinmmartins/ThingProvider)
 
 # ThingProviderServer
 The ThingProvider server
