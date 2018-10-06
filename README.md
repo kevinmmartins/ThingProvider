@@ -1,5 +1,5 @@
 # ThingProvider 
-Let's connect all things !
+### Let's connect all things !
 
 This work presents a model for application of services in the IOT architecture, aiming at local environments where information sharing among several systems is necessary. To propose a different architecture from the common monolithic commonly applied in projects of smaller scales will be used web services restfull providing the possibility of the consumption of the information for the most diverse systems in which it is shown necessary.
 
@@ -7,7 +7,7 @@ This work presents a model for application of services in the IOT architecture, 
 
 ## ThingProvider projects
 
-### Router
+* ### Router
 
 Services router
 
@@ -15,7 +15,7 @@ Services router
 
 [![Build Status](https://travis-ci.org/kevinmmartins/ThingProviderService.svg?branch=master)](https://travis-ci.org/kevinmmartins/ThingProviderService)
 
-### Web
+* ### Web
 
 Frontend
 
@@ -23,7 +23,7 @@ Frontend
 
 [![Build Status](https://travis-ci.org/kevinmmartins/ThingProviderWeb.svg?branch=master)](https://travis-ci.org/kevinmmartins/ThingProviderWeb)
 
-### Nodes
+* ### Nodes
 
 Application nodes
 
