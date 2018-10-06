@@ -8,25 +8,18 @@ This work presents a model for application of services in the IOT architecture, 
 ## ThingProvider projects
 
 * ### Router
+     [Check the project](https://github.com/kevinmmartins/ThingProviderService)
 
-Services router
-
-[Router project](https://github.com/kevinmmartins/ThingProviderService)
-
-[![Build Status](https://travis-ci.org/kevinmmartins/ThingProviderService.svg?branch=master)](https://travis-ci.org/kevinmmartins/ThingProviderService)
+     [![Build Status](https://travis-ci.org/kevinmmartins/ThingProviderService.svg?branch=master)](https://travis-ci.org/kevinmmartins/ThingProviderService)
 
 * ### Web
 
-Frontend
+    [Check the project](https://github.com/kevinmmartins/ThingProviderWeb)
 
-[Web project](https://github.com/kevinmmartins/ThingProviderWeb)
-
-[![Build Status](https://travis-ci.org/kevinmmartins/ThingProviderWeb.svg?branch=master)](https://travis-ci.org/kevinmmartins/ThingProviderWeb)
+    [![Build Status](https://travis-ci.org/kevinmmartins/ThingProviderWeb.svg?branch=master)](https://travis-ci.org/kevinmmartins/ThingProviderWeb)
 
 * ### Nodes
 
-Application nodes
+    [Check the project](https://github.com/kevinmmartins/ThingProviderNodes)
 
-[Nodes project](https://github.com/kevinmmartins/ThingProviderNodes)
-
-[![Build Status](https://travis-ci.org/kevinmmartins/ThingProviderNodes.svg?branch=master)](https://travis-ci.org/kevinmmartins/ThingProviderNodes)
+    [![Build Status](https://travis-ci.org/kevinmmartins/ThingProviderNodes.svg?branch=master)](https://travis-ci.org/kevinmmartins/ThingProviderNodes)
